@@ -5,7 +5,7 @@
         <ul class="nav-wrap clearfix">
           <li>
             <img src="./assets/logo.png" alt="" class="logo-img">
-            <router-link class="link-item" to="/workbench">监狱智能监控系统</router-link>
+            <router-link class="link-item" to="/workbench">智能监控系统</router-link>
           </li>
           <li>
             <router-link active-class="active" class="link-item" to="/workbench">工作台</router-link>
